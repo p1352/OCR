@@ -1,0 +1,25 @@
+# Secrets et environnement
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Django
+backend/db.sqlite3
+backend/media/
+backend/staticfiles/
+media/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# Divers
+*.log
+.DS_Store
+nul

@@ -1,0 +1,41 @@
+
+Contexte : 
+Création d'un logiciel de gestionn de données auquel je peux donner des images et qui va les traduire en texte et tableaux en fonction des données. 
+
+Modèdes de données : 
+- Images de départ
+- Textes récupérés
+- Tableaux de données récupérées
+- Client
+- Admin
+- Compte user 
+
+Modules :
+- Gestion des utilisateurs
+- Gestion des données
+- Gestion des clients
+- Gestion des admins
+- Gestion des comptes users
+- Module de conversion image vers texte
+- Module de conversion image vers tableau   
+
+Ordre : 
+- Modèles de données
+- Modules
+- Interface 
+
+Stack technique :
+- Python
+- Django
+- React
+- TailwindCSS
+- Groq pour le traitement des images
+- Base de données Sqlite pour le dev et en MariaDB pour la prod
+
+
+
+
+
+
+
+@user 
